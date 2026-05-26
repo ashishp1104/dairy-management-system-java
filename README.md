@@ -1,4 +1,4 @@
-Dairy-Management-system
+Dairy-Management-system 
 
 The Dairy Management System is a software solution designed to help dairy farms, milk collection centers and efficiently manage their daily operations. The system aims to streamline milk collection, recordkeeping, sales, customer management, while ensuring accuracy and transparency.
 
